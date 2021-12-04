@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1623973203 source:c:\users\gomez\onedrive\desktop\escalera\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"misMetodos.h"
+
+1623913152 c:\users\gomez\onedrive\desktop\escalera\mismetodos.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"constantes.h"
+	"colores.h"
+	"variablesGlobales.h"
+	"metodosConsola.h"
+
+1623911640 c:\users\gomez\onedrive\desktop\escalera\constantes.h
+
+1623973203 source:c:\users\gomez\onedrive\desktop\escalera\mismetodos.cpp
+	"misMetodos.h"
+
+1623909987 source:c:\users\angelicamaria\desktop\escalera\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"misMetodos.h"
+
+1623913151 c:\users\angelicamaria\desktop\escalera\mismetodos.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"constantes.h"
+	"colores.h"
+	"variablesGlobales.h"
+	"metodosConsola.h"
+
+1623911638 c:\users\angelicamaria\desktop\escalera\constantes.h
+
+1623952641 source:c:\users\angelicamaria\desktop\escalera\mismetodos.cpp
+	"misMetodos.h"
+
+1623911550 c:\users\angelicamaria\desktop\escalera\colores.h
+
+1623948560 c:\users\angelicamaria\desktop\escalera\variablesglobales.h
+
+1623913154 c:\users\angelicamaria\desktop\escalera\metodosconsola.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"constantes.h"
+	"colores.h"
+	"variablesGlobales.h"
+
+1623913155 source:c:\users\angelicamaria\desktop\escalera\metodosconsola.cpp
+	"metodosConsola.h"
+
+1623962316 c:\users\gomez\onedrive\desktop\escalera\colores.h
+
+1623973101 c:\users\gomez\onedrive\desktop\escalera\variablesglobales.h
+
+1623913156 c:\users\gomez\onedrive\desktop\escalera\metodosconsola.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"constantes.h"
+	"colores.h"
+	"variablesGlobales.h"
+
+1623913156 source:c:\users\gomez\onedrive\desktop\escalera\metodosconsola.cpp
+	"metodosConsola.h"
+
+1637275233 source:d:\universidad\programacion\proyectos\escalera\main.cpp
+	"misMetodos.h"
+
+1637481835 d:\universidad\programacion\proyectos\escalera\mismetodos.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"constantes.h"
+
+1637481452 d:\universidad\programacion\proyectos\escalera\constantes.h
+
+1623962318 d:\universidad\programacion\proyectos\escalera\colores.h
+
+1623973416 d:\universidad\programacion\proyectos\escalera\variablesglobales.h
+
+1637205732 d:\universidad\programacion\proyectos\escalera\metodosconsola.h
+
+1623913156 source:d:\universidad\programacion\proyectos\escalera\metodosconsola.cpp
+	"metodosConsola.h"
+
+1637509963 source:d:\universidad\programacion\proyectos\escalera\mismetodos.cpp
+	"misMetodos.h"
+
